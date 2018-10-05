@@ -44,4 +44,3 @@ delete from department where deptid=101
 
 delete from department
 
-this is my first change
